@@ -1,0 +1,29 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#ffe6f0;
+}
+
+.container{
+margin-top:100px;
+}
+
+button{
+padding:12px 25px;
+font-size:18px;
+margin:10px;
+border:none;
+border-radius:10px;
+cursor:pointer;
+}
+
+#yes{
+background:#4CAF50;
+color:white;
+}
+
+#no{
+background:#ff4d4d;
+color:white;
+position:absolute;
+}
